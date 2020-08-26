@@ -1,9 +1,40 @@
-WEEK 3
+WEEK 2 2 
 
 ~~~CSE 330~~~
 
 [] Finish Project 1
         -Due Sept 3
+
+[] What is network stacking?
+[X] read readme in documentation.
+[X] install all packages
+[X] figure out how it's save/unpacked
+
+Notes-
+
+Recitations optional. Zoom available.
+
+Make modules 8/25 at 5:25pm
+
+~~~~~~~~~~Tues Lecture~~~~~~~~~~
+
+In assembly-
+CALL (address of your function)
+
+[] How do function calls work?
+[] Does RAM store programs?
+[] How does VirtualBox work?
+[] Rewatch Tuesday lectore
+[] YouTube video how computer works
+	-compiler, linker, loader, binary, input-output
+	input of linker is output of compiler.
+	output of loader is binary of p1? (watch Tuesday lecture)
+[] What is buffer overflow error?
+[] How does throwing things on the stack work?
+
+OS will limit time and memory for a program to run.
+
+
 
 ~~~CSE 340~~~
 
@@ -17,5 +48,31 @@ Attend one reciation per week
 
 
 ~~~CSE 355~~~
+
+My software should be my artform. My programs and my creations and I can use them daily. Then keep making better software to improve my life.
+
+Software grows exponentially with time. 
+
+Notes-
+Model-Based Design
+
+Finite Automata-
+Evaluation of state machine?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
