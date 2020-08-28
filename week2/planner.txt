@@ -1,25 +1,35 @@
 WEEK 2 2 
 
-~~~CSE 330~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~CSE 330~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [] Finish Project 1
         -Due Sept 3
 
-[] What is network stacking?
+[X] What is network stacking?
+	-need to learn more about networking first
 [X] read readme in documentation.
 [X] install all packages
 [X] figure out how it's save/unpacked
+[X] Read Chapter 1 The Linux Kernel Module Programming Guide
+[] Read Chapter 2
 
 Notes-
 
 Recitations optional. Zoom available.
 
-Make modules 8/25 at 5:25pm
+Make modules 8/25 at 5:25pm - midnight.
+
+
+
+
+
+
+
 
 ~~~~~~~~~~Tues Lecture~~~~~~~~~~
 
 In assembly-
-CALL (address of your function)
+CALL (address of your function)https://blizzardwatch.com/2020/04/08/shadowlands-will-getting-rid-reputation-requirements-allied-races/
 
 [] How do function calls work?
 [] Does RAM store programs?
@@ -35,8 +45,51 @@ CALL (address of your function)
 OS will limit time and memory for a program to run.
 
 
+~~~~~~~~~Wednesday Notes~~~~~~~
 
-~~~CSE 340~~~
+[] what is init function
+
+
+~~~~~~~~~Thursday recitation~~~~
+
+g++ main.cpp -o main.exe
+
+./main.exe < in1.txt  to get input from in1
+
+> is for outputs
+
+./main.exe > out.txt
+
+
+~~~~~~~~~Thursday Project Notes~~~~~
+
+[X] What is kernel log?
+	I think it can be viewed /var/log/kern.log
+[] What does cat file mean?
+[] What is /var ?
+[] TA - Does module stil need to be there after we restart the computer?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~CSE 340~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Notes-
 
@@ -44,20 +97,57 @@ Attend one reciation per week
 	geared for help with projects
 
 [] Look at syllabus
-[] Do homework 0
+[X] Do homework 0 - DUE 8/28 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[] getToken() (go through notes)
 
 
-~~~CSE 355~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~CSE 355~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 My software should be my artform. My programs and my creations and I can use them daily. Then keep making better software to improve my life.
 
 Software grows exponentially with time. 
 
-Notes-
+~~~~~~~Tuesday Notes~~~~~~~~~~~~
 Model-Based Design
 
 Finite Automata-
 Evaluation of state machine?
+
+
+
+~~~~~~~Thursday Notes~~~~~~~~~~
+
+tuple- collection of items where the order of items matters. 
+	formal defn of Finite Automata
+
+[] do the quizzes
 
 
 
