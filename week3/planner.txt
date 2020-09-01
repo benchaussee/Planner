@@ -1,0 +1,26 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 330 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[] What does cat file mean?
+[] What is /var ?
+[] what is init function
+[] How do function calls work?
+[] Does RAM store programs?
+[] How does VirtualBox work?
+[] Rewatch Tuesday lectore
+[] YouTube video how computer works
+        -compiler, linker, loader, binary, input-output
+        input of linker is output of compiler.
+        output of loader is binary of p1? (watch Tuesday lecture)
+[] What is buffer overflow error?
+[] How does throwing things on the stack work?
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 340 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[] getToken() (go through notes)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 355 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[] Do quizzes
