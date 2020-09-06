@@ -11,7 +11,7 @@ WEEK 2 2
 [X] install all packages
 [X] figure out how it's save/unpacked
 [X] Read Chapter 1 The Linux Kernel Module Programming Guide
-[] Read Chapter 2
+[X] Read Chapter 2
 
 Notes-
 
@@ -67,7 +67,8 @@ g++ main.cpp -o main.exe
 	I think it can be viewed /var/log/kern.log
 [] What does cat file mean?
 [] What is /var ?
-[] TA - Does module stil need to be there after we restart the computer?
+[X] TA - Does module stil need to be there after we restart the computer?
+	No, not how ismod works.
 
 
 
@@ -141,7 +142,6 @@ Finite Automata-
 Evaluation of state machine?
 
 
-
 ~~~~~~~Thursday Notes~~~~~~~~~~
 
 tuple- collection of items where the order of items matters. 
@@ -150,10 +150,16 @@ tuple- collection of items where the order of items matters.
 [] do the quizzes
 
 
+~~~~~~~Homework note~~~~~~~
+
+powerset of 2^( {{}} )
+
+{ {} }
 
 
 
 
+~~~~~~~~~~ Sunday Notes ~~~~~
 
 
 

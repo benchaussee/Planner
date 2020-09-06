@@ -13,6 +13,7 @@
         output of loader is binary of p1? (watch Tuesday lecture)
 [] What is buffer overflow error?
 [] How does throwing things on the stack work?
+[] Resubmit with kernel files.
 
 
 
@@ -21,6 +22,41 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 340 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 [] getToken() (go through notes)
+[] When problem session. 
+[] terminal or non-terminal
+
+Parsing-
+Take sentence, break into words, ID category of words, determine if they form correct sentence.
+	-Parsing is done according to a grammar. 
+
+Token-
+Token is the broad sense. ex (keyword, NUM, ID, DECIMAL)
+	-5 categories of tokens. 1) constants, 2) identifiers, 3) operators, 4) separators, and 5) reserved words
+
+Lexeme-
+A string from the token group.
+	-EX. "=" from group operators.
+
+Page 11 of notes. Going to watch video now. 
+
+56 min into lecture.
+
+
+
+
+
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 355 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [] Do quizzes
+
+
+~~~~~~~~ Tuesday Notes ~~~~~~~~
+
+We left off in 01_0_finite_automata lecture, there's an example here of L = {w # {0,1}* | 001 is a suffix of w}. 
+
+{0,1} = the language of all strings built over the alphabet "sigma" = {0,1}.
+
+
+Group Questions-
+2. Are we manipulating sets or 
